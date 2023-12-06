@@ -1,0 +1,15 @@
+C:\Projects\Leetcode\CSharpLC\bin\Debug\net8.0\CSharpLC.exe
+C:\Projects\Leetcode\CSharpLC\bin\Debug\net8.0\CSharpLC.deps.json
+C:\Projects\Leetcode\CSharpLC\bin\Debug\net8.0\CSharpLC.runtimeconfig.json
+C:\Projects\Leetcode\CSharpLC\bin\Debug\net8.0\CSharpLC.dll
+C:\Projects\Leetcode\CSharpLC\bin\Debug\net8.0\CSharpLC.pdb
+C:\Projects\Leetcode\CSharpLC\obj\Debug\net8.0\CSharpLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Leetcode\CSharpLC\obj\Debug\net8.0\CSharpLC.AssemblyInfoInputs.cache
+C:\Projects\Leetcode\CSharpLC\obj\Debug\net8.0\CSharpLC.AssemblyInfo.cs
+C:\Projects\Leetcode\CSharpLC\obj\Debug\net8.0\CSharpLC.csproj.CoreCompileInputs.cache
+C:\Projects\Leetcode\CSharpLC\obj\Debug\net8.0\CSharpLC.sourcelink.json
+C:\Projects\Leetcode\CSharpLC\obj\Debug\net8.0\CSharpLC.dll
+C:\Projects\Leetcode\CSharpLC\obj\Debug\net8.0\refint\CSharpLC.dll
+C:\Projects\Leetcode\CSharpLC\obj\Debug\net8.0\CSharpLC.pdb
+C:\Projects\Leetcode\CSharpLC\obj\Debug\net8.0\CSharpLC.genruntimeconfig.cache
+C:\Projects\Leetcode\CSharpLC\obj\Debug\net8.0\ref\CSharpLC.dll
