@@ -3,7 +3,8 @@ import java.util.*;
 
 
 /**
- * TODO: Explain approach
+ * APPROACH:
+ *  Take altitude at each index and determine the altitude gain, tracking max altitude.
  */
 class LC1732FindHighestAltitudePrefixSum {
     public static int largestAltitude(int[] gain) {
