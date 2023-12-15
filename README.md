@@ -8,8 +8,8 @@ Each file can be run individually by navigating to the CSharpLC folder in comman
 dotnet script .\{FilenameGoesHere.csx}
 ```
 
-To run the Java files, compile then execute the specified file by running the following in command prompt:
+Java files are executed through Main.java. Edit the main method in Main.java by making a new object of the desired class. Each file is made to run in the same format.
 ```
-javac {java file name}
-java {Compiled file name without extension}
+javac Main.java
+java main
 ```
