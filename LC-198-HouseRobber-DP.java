@@ -2,7 +2,7 @@ class LC198HouseRobberDP {
     class Solution {
         public void run() {
             int [] nums = {1, 2, 3, 1};
-            rob(nums);
+            System.out.println(rob(nums));
         }
 
         public int rob(int[] nums) {
