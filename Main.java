@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        LC2096DeleteTheMiddleNodeOfALinkedList s = new LC2096DeleteTheMiddleNodeOfALinkedList();
+        LC198HouseRobberDP lc = new LC198HouseRobberDP();
     }
 }
